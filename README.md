@@ -1,2 +1,2 @@
 # Local-Manifest
-Manifest CM12.1
+Manifest CM13 and AOSPB for clark
